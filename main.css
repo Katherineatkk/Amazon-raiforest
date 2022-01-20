@@ -1,0 +1,209 @@
+*{
+    box-sizing:border-box;
+    padding: 25px, 50px, 75px, 100px; 
+    background-image: url(amazonriver);
+}
+
+nav{
+    width: 100%; 
+    height: 75px;
+    background-color:  #505d61; 
+    line-height: 75px;
+    padding: 0px 100px;
+    position:fixed;
+    z-index: 1 
+}
+
+nav{ 
+    background-image: url(frog.jpg)
+}
+
+nav .logo{
+    font-size: 30px; 
+    font-weight: bold; 
+    letter-spacing: 1.5px;
+}
+
+nav.logo p{ 
+    float: left; 
+    color: #fff; 
+    text-transform: uppercase; 
+}
+
+nav ul{ 
+    float: right;
+}
+
+nax ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+nav ul li a{
+    color: #
+}
+
+
+
+
+body { 
+    background-color: rgb(153, 207, 140);
+}
+
+
+*{ 
+    background-image: url(amazonriver.jpg);
+}
+
+
+h1 { 
+    background-image: url(amazonriver);
+}
+
+img {
+    width: 100%,
+}
+
+body {
+    background-image: url(amazonriver);
+    width: 100%;
+}
+
+
+/* again we can comment */
+
+h2 { 
+    color: rgb(12, 141, 23); 
+    font-size: 40px; 
+    font-family: 'Luxurious Roman', cursive;
+    font-weight: bold;
+} 
+
+.large { 
+    font-size: 20px; 
+    text-align: center; 
+    color: black; 
+    background-image: url(amazonriver);
+}
+
+.last { 
+    font-size: 20px; 
+    text-align: center; 
+    color: black; 
+    background-image: url(amazonriver);
+}
+
+h1 { 
+    color: rgb(0, 0, 0); 
+    font-size: 35px; 
+    font family: 'Roboto', 'sans-serif'
+    text-align: center
+}
+   
+h3,h4 { 
+    color:rgb(4, 0, 8); 
+    font-size: 20px; 
+    font family: 'Roboto', 'sans-serif';
+
+} 
+
+h2 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+
+}
+
+h4 {
+    color: rgb(255, 255, 255))
+    text-align: center;
+}
+h1 {
+    text-align: center;
+
+}
+
+<p class="center large"> Hello Amazon</p>
+
+<p>
+
+
+/* this is how you taget an elemnts in HTML */
+
+.nav{
+    background-color: rgb(255, 217, 0);
+}
+
+p { 
+    colour 
+}
+
+.centre { 
+    tex-align: centre;
+
+}
+
+
+<h2 class>
+
+
+
+.nav{
+    display:flex;
+    justify-content: center;
+    background-image: url(amazonriver);
+    background-position:center;
+    font family: "Compacta"; 
+    text-shadow: 2px 2px 
+    border style: double; 
+    align-items: flex-end;
+    border width: Spx;
+    font size: 50px;
+}
+
+
+img { 
+    display: flex;
+}
+
+
+nav a{
+    color: rgb (255, 238, 8)
+    text-decoration: none;
+}
+
+
+.nav a:hover{
+    color: chartreuse;
+    background-image:url(amazonriver);
+}
+
+#para1 { 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url(frog.jpg)
+}
+
+
+.nav {
+    display:flex;
+    justify-content: space-evenly;
+    background-image: url(greenback.jpg);
+    background-position: center;
+    font-family:'lobster';
+    font-size: 30px;
+    text-shadow: 0px 0px #000000;
+    border-style:ridge;
+    border-width: 5px;
+}
+nav a{
+    color: background-color(235, 235, 235);
+}
+.nav a:hover{
+    color: green;
+    text-decoration:none;
+}
+
